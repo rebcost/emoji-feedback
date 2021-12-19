@@ -1,5 +1,5 @@
 # Emoji Feedback
-![image](https://github.com/rebcost/emoji-feeback/blob/main/emoji-feddback.gif)
+![image](https://github.com/rebcost/emoji-feedback/blob/main/emoji-feedback.gif)
 
 O emoji interage de acordo com a quantidade de estrelas que é atribuida.
 
